@@ -37,7 +37,7 @@ function Navbar() {
                 <div className="flex items-center justify-end gap-4">
                     <div className="bg-slate-100 rounded-full  focus:border-none active:border-none w-64 relative flex items-center">
                         <Icon name="search" className="absolute left-3 text-gray-400 text-[20px] pointer-events-none" />
-                        <input type="text" placeholder="Search Products..." className="placeholder:text-slate-500 w-full text-sm bg-transparent p-3   pl-10 " />
+                        <input type="text" placeholder="Search Products..." className="placeholder:text-slate-500 outline-none w-full text-sm bg-transparent p-3   pl-10 " />
                     </div>
                     <button className="p-2 rounded-full hover:bg-slate-100 hover:cursor-pointer">
                         <Icon name="shopping_bag" />
