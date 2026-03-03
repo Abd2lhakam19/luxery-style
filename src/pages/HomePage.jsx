@@ -1,3 +1,4 @@
+import BestSellers from "../components/BestSellers";
 import CategorySection from "../components/CategorySection";
 import HeroSection from "../components/HeroSection";
 import Navbar from "../components/Navbar";
@@ -8,6 +9,7 @@ function HomePage() {
             <Navbar />
             <HeroSection />
             <CategorySection />
+            <BestSellers />
 
         </div>
     );
