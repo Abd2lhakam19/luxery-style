@@ -1,3 +1,4 @@
+import CategorySection from "../components/CategorySection";
 import HeroSection from "../components/HeroSection";
 import Navbar from "../components/Navbar";
 
@@ -6,6 +7,7 @@ function HomePage() {
         <div className="min-h-screen">
             <Navbar />
             <HeroSection />
+            <CategorySection />
 
         </div>
     );
