@@ -3,7 +3,7 @@ import Icon from "./Icon";
 
 function CategorySection() {
     return (
-        <section className="relative max-w-7xl mx-auto px-6 ">
+        <section className="relative max-w-7xl mx-auto px-6 pb-20 ">
             <div>
                 <div className="flex justify-between items-end mb-12">
                     <div>
