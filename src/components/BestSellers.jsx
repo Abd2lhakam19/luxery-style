@@ -14,10 +14,12 @@ function BestSellers() {
                     </p>
                 </div>
                 <div className="grid grid-cols-1 gap-6 md:grid-cols-4 w-full">
-                    <BestSellerItem />
-                    <BestSellerItem />
-                    <BestSellerItem />
-                    <BestSellerItem />
+                    <BestSellerItem img='/cloths.png' title="Midnight Wool Blazer" price="$495.00" />
+                    <BestSellerItem img='/cloths.png' title="Midnight Wool Blazer" price="$495.00" />
+                    <BestSellerItem img='/cloths.png' title="Midnight Wool Blazer" price="$495.00" />
+                    <BestSellerItem img='/cloths.png' title="Midnight Wool Blazer" price="$495.00" />
+
+
                 </div>
             </div>
         </section>
