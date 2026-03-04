@@ -2,7 +2,7 @@ import Icon from "./Icon";
 
 function Navbar() {
     return (
-        <nav className="w-full border-b border-gray-100 bg-white sticky top-0 z-50">
+        <nav className="w-full border-b border-gray-100 bg-white/80 sticky top-0 z-50 backdrop-blur-md">
             <div className="container max-w-7xl mx-auto  px-6 h-20 flex items-center justify-between">
                 <div className="flex gap-10">
                     <div className="flex">

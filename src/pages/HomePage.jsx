@@ -2,6 +2,7 @@ import BestSellers from "../components/BestSellers";
 import CategorySection from "../components/CategorySection";
 import HeroSection from "../components/HeroSection";
 import Navbar from "../components/Navbar";
+import PromotionBanner from "../components/PromotionBanner";
 
 function HomePage() {
     return (
@@ -10,6 +11,7 @@ function HomePage() {
             <HeroSection />
             <CategorySection />
             <BestSellers />
+            <PromotionBanner />
 
         </div>
     );
