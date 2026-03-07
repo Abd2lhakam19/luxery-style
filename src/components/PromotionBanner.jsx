@@ -17,10 +17,10 @@ function PromotionBanner() {
                     </div>
                 </div>
             </div>
-            <div className="pb-10">
+            <div >
 
-            <div className="h-0.5   bg-slate-200 mb-20" >
-            </div>
+                <div className="h-0.5   bg-slate-200 " >
+                </div>
 
             </div>
 
